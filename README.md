@@ -1,2 +1,5 @@
 # Projeto da Dio.me
-Desafio de projeto sobre GitHub
+Repositório criado para o desafio de projeto
+
+Clique abaixo para saber mais sobre o Markdown
+https://www.markdownguide.org/basic-syntax/
